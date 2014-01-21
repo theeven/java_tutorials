@@ -1,0 +1,49 @@
+<session>
+	<change action='removal' type='Method' class='Set' method='remove' args='Object' visibility='public' resource='src/com/industriallogic/collections/Set.java' stamp='1316629418875'/>
+	<change action='removal' type='Method' class='List' method='remove' args='Object' visibility='public' resource='src/com/industriallogic/collections/List.java' stamp='1316629418900'/>
+	<change action='removal' type='Method' class='Set' method='remove' args='Object' visibility='public' resource='src/com/industriallogic/collections/Set.java' stamp='1316629476044'/>
+	<change action='removal' type='Method' class='List' method='remove' args='Object' visibility='public' resource='src/com/industriallogic/collections/List.java' stamp='1316629476060'/>
+	<change action='removal' type='Method' class='Set' method='setReadOnly' args='boolean' visibility='public' resource='src/com/industriallogic/collections/Set.java' stamp='1316629529017'/>
+	<change action='removal' type='Method' class='List' method='setReadOnly' args='boolean' visibility='public' resource='src/com/industriallogic/collections/List.java' stamp='1316629529020'/>
+	<change action='addition' type='Method' class='AbstractCollection' method='setReadOnly' args='boolean' visibility='public' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316629529025'/>
+	<change action='addition' type='Method' class='AbstractCollection' method='remove' args='Object' visibility='public' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316629476052'/>
+	<change action='addition' type='Method' class='AbstractCollection' method='remove' args='Object' visibility='public' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316629418884'/>
+	<problem type='Missing Method' class='AbstractCollection' method='getElementAt' args='int' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316629722748'/>
+	<problem type='Missing Method' class='AbstractCollection' method='get' args='int' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316629755007'/>
+	<change action='addition' type='Method' class='AbstractCollection' method='get' args='int' visibility='public' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316629892115'/>
+	<change action='addition' type='Method' class='AbstractCollection' method='fetch' args='int' visibility='public' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316629895142'/>
+	<change action='removal' type='Method' class='AbstractCollection' method='get' args='int' visibility='N/A' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316629895142'/>
+	<problem type='Missing Method' class='List' method='fetxh' args='int' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316629956475'/>
+	<change action='removal' type='Method' class='List' method='add' args='Object' visibility='public' resource='src/com/industriallogic/collections/List.java' stamp='1316630349621'/>
+	<change action='addition' type='Method' class='AbstractCollection' method='add' args='Object' visibility='public' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630349617'/>
+	<change action='addition' type='Method' class='Set' method='get' args='int' visibility='public' resource='src/com/industriallogic/collections/Set.java' stamp='1316630531187'/>
+	<change action='removal' type='Method' class='Set' method='getElementAt' args='int' visibility='N/A' resource='src/com/industriallogic/collections/Set.java' stamp='1316630531187'/>
+	<change action='removal' type='Method' class='Set' method='get' args='int' visibility='public' resource='src/com/industriallogic/collections/Set.java' stamp='1316630532482'/>
+	<change action='addition' type='Method' class='Set' method='getElementAt' args='int' visibility='public' resource='src/com/industriallogic/collections/Set.java' stamp='1316630532482'/>
+	<change action='removal' type='Method' class='Set' method='getElementAt' args='int' visibility='public' resource='src/com/industriallogic/collections/Set.java' stamp='1316630536547'/>
+	<change action='addition' type='Method' class='Set' method='get' args='int' visibility='public' resource='src/com/industriallogic/collections/Set.java' stamp='1316630536547'/>
+	<change action='removal' type='Method' class='Set' method='get' args='int' visibility='public' resource='src/com/industriallogic/collections/Set.java' stamp='1316630568496'/>
+	<change action='removal' type='Method' class='List' method='get' args='int' visibility='public' resource='src/com/industriallogic/collections/List.java' stamp='1316630568498'/>
+	<change action='addition' type='Method' class='AbstractCollection' method='get' args='int' visibility='public' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630568502'/>
+	<change action='addition' type='Method' class='AbstractCollection' method='get' args='int' visibility='public' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630820110'/>
+	<change action='removal' type='Method' class='AbstractCollection' method='fetch' args='int' visibility='N/A' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630820110'/>
+	<change action='addition' type='Method' class='AbstractCollection' method='getd' args='int' visibility='public' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630827136'/>
+	<change action='removal' type='Method' class='AbstractCollection' method='get' args='int' visibility='public' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630827136'/>
+	<change action='addition' type='Method' class='AbstractCollection' method='ged' args='int' visibility='public' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630828659'/>
+	<change action='removal' type='Method' class='AbstractCollection' method='getd' args='int' visibility='N/A' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630828659'/>
+	<change action='removal' type='Method' class='AbstractCollection' method='ged' args='int' visibility='public' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630829137'/>
+	<change action='addition' type='Method' class='AbstractCollection' method='ged' args='int' visibility='public' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630829564'/>
+	<change action='removal' type='Method' class='AbstractCollection' method='fetch' args='int' visibility='N/A' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630829564'/>
+	<change action='addition' type='Method' class='AbstractCollection' method='get' args='int' visibility='public' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630839194'/>
+	<change action='removal' type='Method' class='AbstractCollection' method='ged' args='int' visibility='N/A' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630839194'/>
+	<change action='removal' type='Method' class='AbstractCollection' method='get' args='int' visibility='public' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630842393'/>
+	<change action='addition' type='Method' class='AbstractCollection' method='ged' args='int' visibility='public' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630842393'/>
+	<change action='addition' type='Method' class='AbstractCollection' method='gfeted' args='int' visibility='public' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630866550'/>
+	<change action='removal' type='Method' class='AbstractCollection' method='ged' args='int' visibility='N/A' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630866550'/>
+	<change action='removal' type='Method' class='AbstractCollection' method='gfeted' args='int' visibility='public' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630870413'/>
+	<change action='removal' type='Method' class='AbstractCollection' method='ged' args='int' visibility='N/A' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630870826'/>
+	<change action='addition' type='Method' class='AbstractCollection' method='fetch' args='int' visibility='public' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630870826'/>
+	<change action='addition' type='Method' class='AbstractCollection' method='fetch' args='int' visibility='public' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630829137'/>
+	<change action='removal' type='Method' class='AbstractCollection' method='fetch' args='int' visibility='N/A' resource='src/com/industriallogic/collections/AbstractCollection.java' stamp='1316630891628'/>
+	<change action='removal' type='Method' class='Set' method='addAll' args='List' visibility='N/A' resource='src/com/industriallogic/collections/Set.java' stamp='1316631026293'/>
+</session>

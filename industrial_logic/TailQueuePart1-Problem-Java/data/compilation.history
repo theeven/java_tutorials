@@ -1,0 +1,402 @@
+<session>
+	<edit stamp="1316643623977" resource="src/com/industriallogic/tailqueue/Tail.java"/>
+	<edit stamp="1316643630030" resource="src/com/industriallogic/tailqueue/Tail.java"/>
+	<edit stamp="1316643636272" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316643697669" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316643700681" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316643702196" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316643704710" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316643707219" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316643720275" resource="src/com/industriallogic/tailqueue/Tail.java"/>
+	<edit stamp="1316643727277" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="21" message="Syntax error, insert 'AssignmentOperator Expression' to complete Expression"/><error lineNumber="21" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="21" message="Tail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316643731287" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="21" message="Syntax error on token 'new', delete this token"/></edit>
+	<edit stamp="1316643733296" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="21" message="Syntax error, insert 'AssignmentOperator Expression' to complete Expression"/><error lineNumber="21" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="21" message="Tail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316643737809" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="21" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1316643741824" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="21" message="Syntax error on tokens, delete these tokens"/><error lineNumber="21" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1316643758341" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="21" message="id cannot be resolved to a variable"/><error lineNumber="21" message="priorityClass cannot be resolved to a variable"/><error lineNumber="21" message="lastContactTime cannot be resolved to a variable"/><error lineNumber="21" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1316643761854" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="21" message="priorityClass cannot be resolved to a variable"/><error lineNumber="21" message="lastContactTime cannot be resolved to a variable"/><error lineNumber="21" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1316643786869" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="21" message="lastContactTime cannot be resolved to a variable"/><error lineNumber="21" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1316643795802" resource="src/com/industriallogic/tailqueue/Tail.java"/>
+	<edit stamp="1316643807384" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="21" message="Ca cannot be resolved to a variable"/><error lineNumber="21" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1316643809893" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="23" message="Calendar cannot be resolved to a variable"/><error lineNumber="23" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1316643810905" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="23" message="Syntax error, insert ')' to complete ClassInstanceCreationExpression"/><error lineNumber="23" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="23" message="Calendar cannot be resolved to a variable"/></edit>
+	<edit stamp="1316643812422" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="23" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1316643814448" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316643816457" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316643848324" resource="src/com/industriallogic/tailqueue/Tail.java"/>
+	<edit stamp="1316643878290" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="24" message="Syntax error on token 'int', delete this token"/></edit>
+	<edit stamp="1316643881298" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="24" message="Syntax error, insert ';' to complete LocalVariableDeclarationStatement"/></edit>
+	<edit stamp="1316643887810" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="24" message="Syntax error, insert ';' to complete LocalVariableDeclarationStatement"/></edit>
+	<edit stamp="1316643888827" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="24" message="Syntax error on token '=', ; expected"/></edit>
+	<edit stamp="1316643894337" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="24" message="Syntax error, insert ';' to complete LocalVariableDeclarationStatement"/><error lineNumber="24" message="test cannot be resolved to a variable"/></edit>
+	<edit stamp="1316643895347" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="24" message="Syntax error, insert ';' to complete LocalVariableDeclarationStatement"/><error lineNumber="24" message="Type mismatch: cannot convert from Tail to int"/></edit>
+	<edit stamp="1316643896358" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="24" message="Type mismatch: cannot convert from Tail to int"/><error lineNumber="24" message="Syntax error on token '.', ; expected"/></edit>
+	<edit stamp="1316643898367" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="24" message="arg0 cannot be resolved to a variable"/><error lineNumber="24" message="Syntax error, insert ';' to complete LocalVariableDeclarationStatement"/></edit>
+	<edit stamp="1316643903880" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="24" message="test cannot be resolved to a variable"/><error lineNumber="24" message="Syntax error, insert ';' to complete LocalVariableDeclarationStatement"/></edit>
+	<edit stamp="1316643904890" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="24" message="Syntax error, insert ';' to complete LocalVariableDeclarationStatement"/></edit>
+	<edit stamp="1316643905901" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316643909846" resource="src/com/industriallogic/tailqueue/Tail.java"/>
+	<edit stamp="1316643913914" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316643915927" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="Syntax error, insert 'AssignmentOperator Expression' to complete Expression"/><error lineNumber="25" message="Syntax error, insert ';' to complete Statement"/><error lineNumber="25" message="asse cannot be resolved to a variable"/></edit>
+	<edit stamp="1316643931941" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="expected cannot be resolved to a variable"/><error lineNumber="25" message="actual cannot be resolved to a variable"/><error lineNumber="25" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316643935954" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="actual cannot be resolved to a variable"/><error lineNumber="25" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316643939964" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="actualResultual cannot be resolved to a variable"/><error lineNumber="25" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316643941972" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="actualResultual cannot be resolved to a variable"/></edit>
+	<edit stamp="1316643945980" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="String literal is not properly closed by a double-quote"/></edit>
+	<edit stamp="1316643947490" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="actualResultual cannot be resolved to a variable"/></edit>
+	<edit stamp="1316643949503" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="Syntax error on token '0', delete this token"/><error lineNumber="25" message="actualResultual cannot be resolved to a variable"/></edit>
+	<edit stamp="1316643950515" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="actualResultual cannot be resolved to a variable"/></edit>
+	<edit stamp="1316643969029" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="actualResultual cannot be resolved to a variable"/></edit>
+	<edit stamp="1316643972540" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="actualResultual cannot be resolved to a variable"/></edit>
+	<edit stamp="1316643975052" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="actualResultual cannot be resolved to a variable"/></edit>
+	<edit stamp="1316643978564" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="actualResultual cannot be resolved to a variable"/></edit>
+	<edit stamp="1316643984574" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="actualResultual cannot be resolved to a variable"/></edit>
+	<edit stamp="1316643987084" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="actualResultual cannot be resolved to a variable"/></edit>
+	<edit stamp="1316643988595" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="actualResultual cannot be resolved to a variable"/></edit>
+	<edit stamp="1316643990103" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="actualResultual cannot be resolved to a variable"/></edit>
+	<edit stamp="1316643991113" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="actualResultual cannot be resolved to a variable"/></edit>
+	<edit stamp="1316643994130" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="Syntax error on token ''for equal id\'s.'', delete this token"/><error lineNumber="25" message="actualResultual cannot be resolved to a variable"/></edit>
+	<edit stamp="1316643996140" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="Syntax error on token '0', , expected"/><error lineNumber="25" message="actualResultual cannot be resolved to a variable"/></edit>
+	<edit stamp="1316643998649" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="actualResultual cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644017409" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644042931" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644049452" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644121497" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="24" message="Ta cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644123509" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="24" message="Syntax error on token ',', delete this token"/><error lineNumber="24" message="Calendar cannot be resolved or is not a field"/></edit>
+	<edit stamp="1316644126019" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644142215" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="23" message="Duplicate method testIfEqual() in type TailTest"/><error lineNumber="29" message="Duplicate method testIfEqual() in type TailTest"/></edit>
+	<edit stamp="1316644146729" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644149246" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644151261" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644162277" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="31" message="testTail cannot be resolved"/><error lineNumber="31" message="testTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644179293" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="31" message="Duplicate local variable firstTail"/><error lineNumber="32" message="testTail cannot be resolved"/><error lineNumber="32" message="testTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644184807" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="32" message="testTail cannot be resolved"/><error lineNumber="32" message="testTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644222124" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="32" message="testTail cannot be resolved"/><error lineNumber="32" message="testTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644226135" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="32" message="testTail cannot be resolved"/><error lineNumber="32" message="testTail cannot be resolved to a variable"/><error lineNumber="33" message="Duplicate local variable actualResult"/><error lineNumber="33" message="testTail cannot be resolved"/><error lineNumber="33" message="testTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644230146" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="32" message="testTail cannot be resolved"/><error lineNumber="32" message="testTail cannot be resolved to a variable"/><error lineNumber="33" message="testTail cannot be resolved"/><error lineNumber="33" message="testTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644233655" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="32" message="testTail cannot be resolved"/><error lineNumber="32" message="testTail cannot be resolved to a variable"/><error lineNumber="33" message="testTail cannot be resolved"/><error lineNumber="33" message="testTail cannot be resolved to a variable"/><error lineNumber="34" message="actualResult cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644235166" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="32" message="testTail cannot be resolved"/><error lineNumber="32" message="testTail cannot be resolved to a variable"/><error lineNumber="33" message="testTail cannot be resolved"/><error lineNumber="33" message="testTail cannot be resolved to a variable"/><error lineNumber="34" message="actualResult cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644236679" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="32" message="testTail cannot be resolved"/><error lineNumber="32" message="testTail cannot be resolved to a variable"/><error lineNumber="33" message="testTail cannot be resolved"/><error lineNumber="33" message="testTail cannot be resolved to a variable"/><error lineNumber="34" message="actualResult cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644262031" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="32" message="testTail cannot be resolved to a variable"/><error lineNumber="33" message="testTail cannot be resolved"/><error lineNumber="33" message="testTail cannot be resolved to a variable"/><error lineNumber="34" message="actualResult cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644266046" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="32" message="testTail cannot be resolved to a variable"/><error lineNumber="33" message="testTail cannot be resolved to a variable"/><error lineNumber="34" message="actualResult cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644271058" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="33" message="testTail cannot be resolved to a variable"/><error lineNumber="34" message="actualResult cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644273569" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="34" message="actualResult cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644282084" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="34" message="firstactualResult cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644286099" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="34" message="firstactualResult cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644287111" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="34" message="firstactualResult cannot be resolved to a variable"/><error lineNumber="35" message="firstactualResult cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644293124" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="34" message="firstactualResult cannot be resolved to a variable"/><error lineNumber="35" message="secondactualResult cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644294133" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="34" message="firstactualResult cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644295644" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644331664" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644337676" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644343688" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644561079" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644564091" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="Duplicate modifier for the method testIfEqual in type TailTest"/></edit>
+	<edit stamp="1316644566103" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="24" message="Duplicate modifier for the method testIfEqual in type TailTest"/></edit>
+	<edit stamp="1316644568617" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="23" message="Syntax error on token 'void', volatile expected"/></edit>
+	<edit stamp="1316644571630" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="23" message="Syntax error, insert ';' to complete ClassBodyDeclarations"/><error lineNumber="23" message="void is an invalid type for the variable init"/></edit>
+	<edit stamp="1316644572645" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="23" message="Syntax error, insert ';' to complete MethodDeclaration"/></edit>
+	<edit stamp="1316644574167" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="23" message="Syntax error, insert ';' to complete MethodDeclaration"/></edit>
+	<edit stamp="1316644576680" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644578192" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644585205" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644586717" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644595730" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644599242" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="23" message="before cannot be resolved to a type"/></edit>
+	<edit stamp="1316644624258" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644641281" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="33" message="firstTail cannot be resolved"/></edit>
+	<edit stamp="1316644642795" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="33" message="firstTail cannot be resolved"/><error lineNumber="33" message="firstTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644645310" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="32" message="firstTail cannot be resolved"/><error lineNumber="32" message="firstTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644649322" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="33" message="firstTail cannot be resolved"/><error lineNumber="33" message="firstTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644651333" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="31" message="Test cannot be resolved to a type"/><error lineNumber="33" message="firstTail cannot be resolved"/><error lineNumber="33" message="firstTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644652846" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="31" message="Test cannot be resolved to a type"/><error lineNumber="33" message="firstTail cannot be resolved"/><error lineNumber="33" message="firstTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644653860" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="31" message="Test cannot be resolved to a type"/><error lineNumber="33" message="firstTail cannot be resolved"/><error lineNumber="33" message="firstTail cannot be resolved to a variable"/><error lineNumber="36" message="Syntax error on token '@', Identifier expected after this token"/></edit>
+	<edit stamp="1316644654871" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="31" message="Test cannot be resolved to a type"/><error lineNumber="33" message="firstTail cannot be resolved"/><error lineNumber="33" message="firstTail cannot be resolved to a variable"/><error lineNumber="36" message="Test cannot be resolved to a type"/></edit>
+	<edit stamp="1316644660885" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="31" message="Test cannot be resolved to a type"/><error lineNumber="33" message="firstTail cannot be resolved"/><error lineNumber="33" message="firstTail cannot be resolved to a variable"/><error lineNumber="36" message="Test cannot be resolved to a type"/><error lineNumber="38" message="firstTail cannot be resolved"/><error lineNumber="38" message="secondTail cannot be resolved to a variable"/><error lineNumber="39" message="secondTail cannot be resolved"/><error lineNumber="39" message="firstTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644675399" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="34" message="firstTail cannot be resolved"/><error lineNumber="34" message="firstTail cannot be resolved to a variable"/><error lineNumber="39" message="firstTail cannot be resolved"/><error lineNumber="39" message="secondTail cannot be resolved to a variable"/><error lineNumber="40" message="secondTail cannot be resolved"/><error lineNumber="40" message="firstTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644697640" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="33" message="firstTail cannot be resolved"/><error lineNumber="33" message="firstTail cannot be resolved to a variable"/><error lineNumber="38" message="firstTail cannot be resolved"/><error lineNumber="38" message="secondTail cannot be resolved to a variable"/><error lineNumber="39" message="secondTail cannot be resolved"/><error lineNumber="39" message="firstTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644699651" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="26" message="The method init in type TailTest can only set one of public / protected / private"/><error lineNumber="33" message="firstTail cannot be resolved"/><error lineNumber="33" message="firstTail cannot be resolved to a variable"/><error lineNumber="38" message="firstTail cannot be resolved"/><error lineNumber="38" message="secondTail cannot be resolved to a variable"/><error lineNumber="39" message="secondTail cannot be resolved"/><error lineNumber="39" message="firstTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644701165" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="23" message="Syntax error on token 'Tail', delete this token"/><error lineNumber="26" message="The method init in type TailTest can only set one of public / protected / private"/><error lineNumber="33" message="firstTail cannot be resolved"/><error lineNumber="33" message="firstTail cannot be resolved to a variable"/><error lineNumber="38" message="firstTail cannot be resolved"/><error lineNumber="38" message="secondTail cannot be resolved to a variable"/><error lineNumber="39" message="secondTail cannot be resolved"/><error lineNumber="39" message="firstTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644703181" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="23" message="Syntax error, insert ';' to complete ClassBodyDeclarations"/><error lineNumber="33" message="firstTail cannot be resolved"/><error lineNumber="33" message="firstTail cannot be resolved to a variable"/><error lineNumber="38" message="firstTail cannot be resolved"/><error lineNumber="38" message="secondTail cannot be resolved to a variable"/><error lineNumber="39" message="secondTail cannot be resolved"/><error lineNumber="39" message="firstTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644706694" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="23" message="Syntax error, insert ';' to complete ClassBodyDeclarations"/><error lineNumber="38" message="secondTail cannot be resolved to a variable"/><error lineNumber="39" message="secondTail cannot be resolved"/></edit>
+	<edit stamp="1316644707708" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="23" message="Syntax error on token ',', ; expected"/><error lineNumber="38" message="secondTail cannot be resolved to a variable"/><error lineNumber="39" message="secondTail cannot be resolved"/></edit>
+	<edit stamp="1316644710721" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="23" message="Syntax error, insert ';' to complete ClassBodyDeclarations"/><error lineNumber="38" message="secondTail cannot be resolved to a variable"/><error lineNumber="39" message="secondTail cannot be resolved"/></edit>
+	<edit stamp="1316644712735" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644728253" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644730265" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644809738" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644814748" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="27" message="Ca cannot be resolved to a type"/></edit>
+	<edit stamp="1316644816759" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="Type mismatch: cannot convert from Tail to Calendar"/></edit>
+	<edit stamp="1316644818782" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="27" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1316644824794" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="Type mismatch: cannot convert from Tail to Calendar"/></edit>
+	<edit stamp="1316644826307" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="27" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="27" message="Calendar cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644829320" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="27" message="Syntax error on token(s), misplaced construct(s)"/><error lineNumber="28" message="Type mismatch: cannot convert from Tail to Calendar"/></edit>
+	<edit stamp="1316644831346" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="77" message="Type mismatch: cannot convert from Tail to Calendar"/></edit>
+	<edit stamp="1316644833362" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="27" message="Syntax error on token(s), misplaced construct(s)"/><error lineNumber="28" message="Type mismatch: cannot convert from Tail to Calendar"/></edit>
+	<edit stamp="1316644839373" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="Type mismatch: cannot convert from Tail to Calendar"/></edit>
+	<edit stamp="1316644840386" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="27" message="Syntax error, insert ';' to complete BlockStatements"/><error lineNumber="27" message="Ca cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644841897" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="firstTail cannot be resolved or is not a field"/></edit>
+	<edit stamp="1316644843410" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="27" message="Syntax error, insert ';' to complete BlockStatements"/></edit>
+	<edit stamp="1316644844421" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644850435" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="curr cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644851946" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644857459" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="29" message="cur cannot be resolved to a variable"/></edit>
+	<edit stamp="1316644858473" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644913927" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644918941" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="26" message="Syntax error on token 'se', delete this token"/></edit>
+	<edit stamp="1316644923453" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644926978" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="26" message="Syntax error on token 'se', delete this token"/></edit>
+	<edit stamp="1316644934492" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="30" message="Syntax error on token 'e', delete this token"/></edit>
+	<edit stamp="1316644937508" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="31" message="Syntax error on token 'e', delete this token"/></edit>
+	<edit stamp="1316644940520" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644941533" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644943545" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644946057" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644956571" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644958584" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644962597" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644966114" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316644975132" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316645101285" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316645105300" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316645123540" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="30" message="thirdTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316645130058" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="30" message="thirdTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316645132071" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="30" message="thirdTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316645133583" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="30" message="thirdTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316645138596" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="30" message="thirdTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316645150111" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="30" message="thirdTail cannot be resolved to a variable"/><error lineNumber="37" message="Duplicate method testSameID() in type TailTest"/><error lineNumber="42" message="Duplicate method testSameID() in type TailTest"/></edit>
+	<edit stamp="1316645165629" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="30" message="thirdTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316645167144" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="30" message="thirdTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316645168160" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="30" message="thirdTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316645175180" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="30" message="thirdTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316645177693" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="30" message="thirdTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316645190213" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="30" message="thirdTail cannot be resolved to a variable"/><error lineNumber="43" message="thirdTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316645195727" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="30" message="thirdTail cannot be resolved to a variable"/><error lineNumber="43" message="thirdTail cannot be resolved to a variable"/><error lineNumber="44" message="thirdTail cannot be resolved"/></edit>
+	<edit stamp="1316645213744" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="30" message="thirdTail cannot be resolved to a variable"/><error lineNumber="43" message="thirdTail cannot be resolved to a variable"/><error lineNumber="44" message="thirdTail cannot be resolved"/></edit>
+	<edit stamp="1316645215258" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316645281790" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316645283303" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316645289822" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316645301349" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316645302862" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316645463266" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316645472779" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="Ca cannot be resolved to a type"/></edit>
+	<edit stamp="1316645474291" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="26" message="Type mismatch: cannot convert from Tail to Calendar"/></edit>
+	<edit stamp="1316645475305" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="26" message="Type mismatch: cannot convert from Tail to Calendar"/></edit>
+	<edit stamp="1316645477821" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="Syntax error, insert ';' to complete LocalVariableDeclarationStatement"/></edit>
+	<edit stamp="1316645480332" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="Syntax error, insert ';' to complete LocalVariableDeclarationStatement"/></edit>
+	<edit stamp="1316645481845" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="Syntax error, insert ';' to complete LocalVariableDeclarationStatement"/></edit>
+	<edit stamp="1316645495861" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="26" message="Type mismatch: cannot convert from Tail to Calendar"/></edit>
+	<edit stamp="1316645498874" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="Syntax error, insert ';' to complete LocalVariableDeclarationStatement"/></edit>
+	<edit stamp="1316645501389" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="Syntax error, insert ';' to complete LocalVariableDeclarationStatement"/></edit>
+	<edit stamp="1316645502903" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="26" message="Type mismatch: cannot convert from Tail to Calendar"/></edit>
+	<edit stamp="1316645504416" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="calendar cannot be resolved"/></edit>
+	<edit stamp="1316645507428" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="calendar cannot be resolved"/></edit>
+	<edit stamp="1316645512441" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="calendar cannot be resolved"/><error lineNumber="26" message="Duplicate local variable futureTime"/><error lineNumber="26" message="calendar cannot be resolved"/></edit>
+	<edit stamp="1316645514955" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="calendar cannot be resolved"/><error lineNumber="26" message="Duplicate local variable futureTime"/><error lineNumber="26" message="calendar cannot be resolved"/></edit>
+	<edit stamp="1316645517469" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="calendar cannot be resolved"/><error lineNumber="26" message="calendar cannot be resolved"/></edit>
+	<edit stamp="1316645519481" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="calendar cannot be resolved"/><error lineNumber="26" message="calendar cannot be resolved"/></edit>
+	<edit stamp="1316645527997" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="Type mismatch: cannot convert from void to Calendar"/><error lineNumber="26" message="calendar cannot be resolved"/></edit>
+	<edit stamp="1316645530018" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="Type mismatch: cannot convert from void to Calendar"/><error lineNumber="26" message="Type mismatch: cannot convert from void to Calendar"/></edit>
+	<edit stamp="1316645533031" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="Type mismatch: cannot convert from void to Calendar"/><error lineNumber="26" message="Type mismatch: cannot convert from void to Calendar"/></edit>
+	<edit stamp="1316645537043" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="Type mismatch: cannot convert from void to Calendar"/><error lineNumber="26" message="Type mismatch: cannot convert from void to Calendar"/></edit>
+	<edit stamp="1316645538558" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="Type mismatch: cannot convert from void to Calendar"/><error lineNumber="26" message="Type mismatch: cannot convert from void to Calendar"/></edit>
+	<edit stamp="1316645540070" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="Type mismatch: cannot convert from void to Calendar"/><error lineNumber="26" message="Type mismatch: cannot convert from void to Calendar"/></edit>
+	<edit stamp="1316645635977" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="25" message="field cannot be resolved to a variable"/><error lineNumber="25" message="The method amount(int, int) is undefined for the type TailTest"/><error lineNumber="25" message="Syntax error on token ')', delete this token"/><error lineNumber="25" message="Syntax error, insert ')' to complete VariableInitializer"/><error lineNumber="26" message="Type mismatch: cannot convert from void to Calendar"/></edit>
+	<edit stamp="1316645661994" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316645672073" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316645676086" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="39" message="Duplicate method testDifferentIDs() in type TailTest"/><error lineNumber="44" message="Duplicate method testDifferentIDs() in type TailTest"/></edit>
+	<edit stamp="1316645681600" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316645697620" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316645699135" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316645727156" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316645730168" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="Syntax error, insert 'AssignmentOperator Expression' to complete Expression"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/><error lineNumber="28" message="fourth cannot be resolved to a variable"/></edit>
+	<edit stamp="1316645731681" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="Syntax error, insert 'AssignmentOperator Expression' to complete Expression"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316645734694" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="Syntax error on token '=', delete this token"/><error lineNumber="28" message="Syntax error, insert 'AssignmentOperator Expression' to complete Assignment"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645736208" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="Syntax error on tokens, delete these tokens"/><error lineNumber="28" message="Syntax error, insert 'AssignmentOperator Expression' to complete Assignment"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645739721" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="Syntax error on tokens, delete these tokens"/><error lineNumber="28" message="Syntax error, insert 'AssignmentOperator Expression' to complete Assignment"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645741234" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="Syntax error on tokens, delete these tokens"/><error lineNumber="28" message="Syntax error, insert 'AssignmentOperator Expression' to complete Assignment"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645743752" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="The constructor Tail() is undefined"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645750382" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="The constructor Tail(int) is undefined"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645751895" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="The constructor Tail(int) is undefined"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645752907" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="The constructor Tail(int) is undefined"/><error lineNumber="28" message="Syntax error, insert ')' to complete ClassInstanceCreationExpression"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645755921" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="Ta cannot be resolved to a variable"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645756935" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="Tail cannot be resolved to a variable"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645758947" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="Syntax error, insert ')' to complete ClassInstanceCreationExpression"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/><error lineNumber="28" message="Tail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316645760960" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="The constructor Tail(int, int) is undefined"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645762474" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="The constructor Tail(int, int) is undefined"/><error lineNumber="28" message="Syntax error, insert ')' to complete ClassInstanceCreationExpression"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645765987" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="cu cannot be resolved to a variable"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645767500" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645768515" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="Syntax error, insert ')' to complete ClassInstanceCreationExpression"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645771528" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="a cannot be resolved or is not a field"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645773040" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="field cannot be resolved to a variable"/><error lineNumber="28" message="amount cannot be resolved to a variable"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645782057" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="Calen cannot be resolved to a variable"/><error lineNumber="28" message="amount cannot be resolved to a variable"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645784071" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="Syntax error on token ',', delete this token"/><error lineNumber="28" message="amount cannot be resolved or is not a field"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645787085" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="s cannot be resolved or is not a field"/><error lineNumber="28" message="amount cannot be resolved to a variable"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645788599" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="amount cannot be resolved to a variable"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645791612" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="The constructor Tail(int, int, void) is undefined"/><error lineNumber="28" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316645795124" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316645797137" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316645811886" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthT cannot be resolved to a type"/><error lineNumber="29" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316645813901" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="fourthTail cannot be resolved to a variable"/><error lineNumber="28" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316645826418" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316645927456" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316645932970" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316645934485" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316645935499" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316645953516" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316645958532" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316645961045" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="28" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316645969558" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316645971571" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="32" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316645975086" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="32" message="The constructor Tail(int, int, void) is undefined"/><error lineNumber="36" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316645980102" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="32" message="The constructor Tail(int, int, void) is undefined"/><error lineNumber="36" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316645981121" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="32" message="The constructor Tail(int, int, void) is undefined"/><error lineNumber="36" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316645982643" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="32" message="The constructor Tail(int, int, void) is undefined"/><error lineNumber="36" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316645985159" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="32" message="The constructor Tail(int, int, void) is undefined"/><error lineNumber="36" message="fif cannot be resolved to a variable"/><error lineNumber="36" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316645987675" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="32" message="The constructor Tail(int, int, void) is undefined"/><error lineNumber="36" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316645996692" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="32" message="The constructor Tail(int, int, void) is undefined"/><error lineNumber="36" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316645999714" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="32" message="The constructor Tail(int, int, void) is undefined"/><error lineNumber="36" message="la cannot be resolved"/></edit>
+	<edit stamp="1316646000727" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="32" message="The constructor Tail(int, int, void) is undefined"/><error lineNumber="36" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316646005251" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="31" message="The constructor Tail(int, int, void) is undefined"/><error lineNumber="35" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316646013473" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="31" message="The constructor Tail(int, int, void) is undefined"/><error lineNumber="35" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316646028491" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="29" message="Type mismatch: cannot convert from void to Calendar"/><error lineNumber="30" message="The constructor Tail(int, int, void) is undefined"/><error lineNumber="34" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316646036007" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="29" message="Type mismatch: cannot convert from void to Calendar"/><error lineNumber="30" message="The constructor Tail(int, int, void) is undefined"/><error lineNumber="32" message="Syntax error, insert ';' to complete LocalVariableDeclarationStatement"/><error lineNumber="32" message="The method add(int, int) is undefined for the type TailTest"/><error lineNumber="33" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316646037020" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="29" message="Type mismatch: cannot convert from void to Calendar"/><error lineNumber="30" message="The constructor Tail(int, int, void) is undefined"/><error lineNumber="32" message="Type mismatch: cannot convert from void to Calendar"/><error lineNumber="33" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316646049537" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="31" message="The constructor Tail(int, int, void) is undefined"/><error lineNumber="35" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316646067556" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="35" message="The constructor Tail(int, int, void) is undefined"/></edit>
+	<edit stamp="1316646073572" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646086170" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646099191" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646111208" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="33" message="Type mismatch: cannot convert from void to Calendar"/></edit>
+	<edit stamp="1316646117223" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646138743" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646146262" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646211176" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646215693" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646218709" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646223226" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646227244" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646232280" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646235812" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646236828" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646240350" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646258877" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646263393" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646264407" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="52" message="Duplicate method testDifferentIDsWithEarlierTime() in type TailTest"/><error lineNumber="57" message="Duplicate method testDifferentIDsWithEarlierTime() in type TailTest"/></edit>
+	<edit stamp="1316646268925" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646269937" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646275953" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646280467" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646282987" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646288008" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646424428" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646448016" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="37" message="Syntax error, insert 'AssignmentOperator Expression' to complete Expression"/><error lineNumber="37" message="Syntax error, insert ';' to complete Statement"/><error lineNumber="37" message="sixth cannot be resolved to a variable"/></edit>
+	<edit stamp="1316646450029" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="37" message="Syntax error, insert 'AssignmentOperator Expression' to complete Expression"/><error lineNumber="37" message="Syntax error, insert ';' to complete Statement"/><error lineNumber="37" message="sixthTa cannot be resolved to a variable"/></edit>
+	<edit stamp="1316646453044" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646458058" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646459578" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="20" message="Syntax error on token ',', ; expected"/></edit>
+	<edit stamp="1316646461101" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646462120" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646464142" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646466167" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646467184" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646468706" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646472221" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646475738" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646479272" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646484789" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="37" message="Syntax error, insert 'AssignmentOperator Expression' to complete Expression"/><error lineNumber="37" message="Syntax error, insert ';' to complete Statement"/><error lineNumber="37" message="sisx cannot be resolved to a variable"/></edit>
+	<edit stamp="1316646485804" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="37" message="Syntax error, insert 'AssignmentOperator Expression' to complete Expression"/><error lineNumber="37" message="Syntax error, insert ';' to complete Statement"/><error lineNumber="37" message="six cannot be resolved to a variable"/></edit>
+	<edit stamp="1316646488323" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="37" message="Syntax error, insert 'AssignmentOperator Expression' to complete Expression"/><error lineNumber="37" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316646490838" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="37" message="Syntax error, insert 'AssignmentOperator Expression' to complete Expression"/><error lineNumber="37" message="Syntax error, insert ';' to complete Statement"/></edit>
+	<edit stamp="1316646500353" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646502871" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646507887" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646512903" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="37" message="sixTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316646516419" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="37" message="sixTail cannot be resolved to a variable"/><error lineNumber="38" message="sevenTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316646519939" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="37" message="sixTail cannot be resolved to a variable"/><error lineNumber="38" message="sevenTail cannot be resolved to a variable"/><error lineNumber="39" message="eightTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316646521955" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="37" message="sixTail cannot be resolved to a variable"/><error lineNumber="38" message="sevenTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316646524472" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="37" message="sixTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316646529491" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646534509" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646564531" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646568048" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646570563" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646572579" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="39" message="The literal 08 of type int is out of range "/></edit>
+	<edit stamp="1316646576094" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="39" message="The literal 08 of type int is out of range "/></edit>
+	<edit stamp="1316646579609" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="39" message="The literal 08 of type int is out of range "/></edit>
+	<edit stamp="1316646581124" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="39" message="The literal 08 of type int is out of range "/></edit>
+	<edit stamp="1316646584139" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="39" message="The literal 08 of type int is out of range "/></edit>
+	<edit stamp="1316646587654" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="39" message="The literal 08 of type int is out of range "/></edit>
+	<edit stamp="1316646593174" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="39" message="The literal 08 of type int is out of range "/></edit>
+	<save stamp="1316646593174" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="39" message="The literal 08 of type int is out of range " action="addition"/></save>
+	<edit stamp="1316646594687" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="39" message="The literal 08 of type int is out of range "/></edit>
+	<edit stamp="1316646624856" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="39" message="The constructor Tail(int, Calendar) is undefined"/><error lineNumber="39" message="Syntax error on token ',', ( expected"/></edit>
+	<edit stamp="1316646626873" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="39" message="Syntax error on token ')', delete this token"/></edit>
+	<edit stamp="1316646628386" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<save stamp="1316646628386" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="39" message="The literal 08 of type int is out of range " action="removal"/></save>
+	<edit stamp="1316646629399" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<save stamp="1316646629399" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="39" message="The literal 08 of type int is out of range " action="removal"/></save>
+	<edit stamp="1316646633419" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646653457" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646658478" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646676418" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="39" message="The literal 08 of type int is out of range "/></edit>
+	<save stamp="1316646676418" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="39" message="The literal 08 of type int is out of range " action="addition"/></save>
+	<edit stamp="1316646678931" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="39" message="The literal 08 of type int is out of range "/></edit>
+	<edit stamp="1316646683951" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<save stamp="1316646683951" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="39" message="The literal 08 of type int is out of range " action="removal"/></save>
+	<edit stamp="1316646684970" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<save stamp="1316646684970" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="39" message="The literal 08 of type int is out of range " action="removal"/></save>
+	<edit stamp="1316646688995" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646774913" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646781931" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="37" message="Syntax error on token ',', delete this token"/><error lineNumber="37" message="currentTime cannot be resolved or is not a field"/></edit>
+	<edit stamp="1316646791039" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="37" message="Syntax error on token ',', delete this token"/><error lineNumber="37" message="currentTime cannot be resolved or is not a field"/></edit>
+	<edit stamp="1316646795051" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646798068" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="38" message="Syntax error on token ',', delete this token"/><error lineNumber="38" message="currentTime cannot be resolved or is not a field"/></edit>
+	<edit stamp="1316646800580" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646804597" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="39" message="Syntax error on token ',', delete this token"/><error lineNumber="39" message="currentTime cannot be resolved or is not a field"/></edit>
+	<edit stamp="1316646805611" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646884711" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646926235" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="61" message="Duplicate method testDifferentIDsWithLaterTime() in type TailTest"/><error lineNumber="66" message="Duplicate method testDifferentIDsWithLaterTime() in type TailTest"/></edit>
+	<edit stamp="1316646931252" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="61" message="Duplicate method testDifferentIDsWithLaterTime() in type TailTest"/><error lineNumber="66" message="Duplicate method testDifferentIDsWithLaterTime() in type TailTest"/></edit>
+	<edit stamp="1316646947272" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646950290" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646962312" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646966829" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646969345" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646975362" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646978879" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="69" message="eighTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316646980893" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316646994922" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647009948" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647019964" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647025984" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647032006" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647034023" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="73" message="Syntax error on token 'Invalid Character', delete this token"/></edit>
+	<edit stamp="1316647037539" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647039555" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647044071" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647052596" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647058116" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647061133" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="66" message="Duplicate method testDifferentIDsWithHigherPriority() in type TailTest"/><error lineNumber="75" message="Duplicate method testDifferentIDsWithHigherPriority() in type TailTest"/></edit>
+	<edit stamp="1316647068151" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647072170" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647073687" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647076208" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647086730" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="76" message="eighTail cannot be resolved"/></edit>
+	<edit stamp="1316647087753" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647092270" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647095788" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647104309" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647107329" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647111854" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647118372" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647121891" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647125407" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+	<edit stamp="1316647135427" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="79" message="firstthTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316647138946" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="79" message="firstthTail cannot be resolved to a variable"/><error lineNumber="80" message="sicthTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316647140464" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="79" message="firstthTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316647146482" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="79" message="firstthTail cannot be resolved to a variable"/><error lineNumber="81" message="firsthTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316647147497" resource="test/com/industriallogic/tailqueue/TailTest.java"><error lineNumber="79" message="firstthTail cannot be resolved to a variable"/></edit>
+	<edit stamp="1316647149015" resource="test/com/industriallogic/tailqueue/TailTest.java"/>
+</session>

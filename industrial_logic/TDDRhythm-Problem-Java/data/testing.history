@@ -1,0 +1,11 @@
+<session>
+	<testrun start="1316713617620" stamp="1316713617634"><pass name="testGetBonus(com.industriallogic.bonus.BonusCalculatorTest)"/></testrun>
+	<testrun start="1316714001350" stamp="1316714001363"><pass name="testIndividualQuotaNotExceeded(com.industriallogic.bonus.BonusCalculatorTest)"/><pass name="testIndividualQuotaExceeded(com.industriallogic.bonus.BonusCalculatorTest)"/></testrun>
+	<testrun start="1316714809007" stamp="1316714809041"><fail name="testIndividualQuotaNotExceeded(com.industriallogic.bonus.BonusCalculatorTest)"/><fail name="testIndividualQuotaExceeded(com.industriallogic.bonus.BonusCalculatorTest)"/></testrun>
+	<testrun start="1316714854068" stamp="1316714854095"><fail name="testIndividualQuotaNotExceeded(com.industriallogic.bonus.BonusCalculatorTest)"/><fail name="testIndividualQuotaExceeded(com.industriallogic.bonus.BonusCalculatorTest)"/></testrun>
+	<testrun start="1316714873520" stamp="1316714873533"><pass name="testIndividualQuotaNotExceeded(com.industriallogic.bonus.BonusCalculatorTest)"/><pass name="testIndividualQuotaExceeded(com.industriallogic.bonus.BonusCalculatorTest)"/></testrun>
+	<testrun start="1316715371015" stamp="1316715371047"><pass name="testIndividualQuotaNotExceeded(com.industriallogic.bonus.BonusCalculatorTest)"/><pass name="testIndividualQuotaExceeded(com.industriallogic.bonus.BonusCalculatorTest)"/></testrun>
+	<testrun start="1316715571196" stamp="1316715571209"><fail name="testIndividualQuotaExceeded(com.industriallogic.bonus.BonusCalculatorTest)"/><pass name="testIndividualQuotaNotExceeded(com.industriallogic.bonus.BonusCalculatorTest)"/></testrun>
+	<testrun start="1316715642366" stamp="1316715642382"><pass name="testIndividualQuotaNotExceeded(com.industriallogic.bonus.BonusCalculatorTest)"/><pass name="testIndividualQuotaExceeded(com.industriallogic.bonus.BonusCalculatorTest)"/></testrun>
+	<testrun start="1316715875179" stamp="1316715875192"><pass name="testIndividualQuotaNotExceeded(com.industriallogic.bonus.BonusCalculatorTest)"/><pass name="testIndividualQuotaExceeded(com.industriallogic.bonus.BonusCalculatorTest)"/><pass name="testTeamQuotaNotExceeded(com.industriallogic.bonus.BonusCalculatorTest)"/><pass name="testTeamQuotaExceeded(com.industriallogic.bonus.BonusCalculatorTest)"/></testrun>
+</session>

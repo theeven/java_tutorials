@@ -1,0 +1,68 @@
+<session>
+	<change action='addition' type='Method' class='TailTest' method='testIF' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316643697669'/>
+	<change action='removal' type='Method' class='TailTest' method='testNothing' args='' visibility='N/A' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316643697669'/>
+	<change action='addition' type='Method' class='TailTest' method='testIfEqua' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316643700681'/>
+	<change action='removal' type='Method' class='TailTest' method='testIF' args='' visibility='N/A' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316643700681'/>
+	<change action='addition' type='Method' class='TailTest' method='testIfEqual' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316643702196'/>
+	<change action='removal' type='Method' class='TailTest' method='testIfEqua' args='' visibility='N/A' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316643702196'/>
+	<change action='addition' type='Method' class='TailTest' method='testIfEqual' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316644142215'/>
+	<change action='addition' type='Method' class='TailTest' method='testsame' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316644146729'/>
+	<change action='removal' type='Method' class='TailTest' method='testIfEqual' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316644146729'/>
+	<change action='addition' type='Method' class='TailTest' method='testsameID' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316644149246'/>
+	<change action='removal' type='Method' class='TailTest' method='testsame' args='' visibility='N/A' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316644149246'/>
+	<change action='addition' type='Method' class='TailTest' method='testSameID' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316644151261'/>
+	<change action='removal' type='Method' class='TailTest' method='testsameID' args='' visibility='N/A' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316644151261'/>
+	<problem type='Unresolved Token' token='testTail' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316644162277'/>
+	<change action='addition' type='Method' class='TailTest' method='init' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316644572645'/>
+	<problem type='Missing Class' class='before' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316644599242'/>
+	<problem type='Unresolved Token' token='firstTail' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316644641281'/>
+	<problem type='Missing Class' class='Test' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316644651333'/>
+	<problem type='Unresolved Token' token='secondTail' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316644660885'/>
+	<problem type='Missing Class' class='Ca' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316644814748'/>
+	<change action='addition' type='Method' class='TailTest' method='setName' args='String' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316644923453'/>
+	<change action='removal' type='Method' class='TailTest' method='setName' args='String' visibility='N/A' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316644926978'/>
+	<change action='addition' type='Method' class='TailTest' method='setUp' args='' visibility='protected' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316644934492'/>
+	<change action='removal' type='Method' class='TailTest' method='init' args='' visibility='N/A' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316644962597'/>
+	<change action='addition' type='Method' class='TailTest' method='testSameID' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645150111'/>
+	<change action='addition' type='Method' class='TailTest' method='testDiID' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645165629'/>
+	<change action='removal' type='Method' class='TailTest' method='testSameID' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645165629'/>
+	<change action='addition' type='Method' class='TailTest' method='testDiffereID' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645167144'/>
+	<change action='removal' type='Method' class='TailTest' method='testDiID' args='' visibility='N/A' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645167144'/>
+	<change action='addition' type='Method' class='TailTest' method='testDifferentID' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645168160'/>
+	<change action='removal' type='Method' class='TailTest' method='testDiffereID' args='' visibility='N/A' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645168160'/>
+	<change action='addition' type='Method' class='TailTest' method='testDifferentIDs' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645175180'/>
+	<change action='removal' type='Method' class='TailTest' method='testDifferentID' args='' visibility='N/A' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645175180'/>
+	<change action='addition' type='Method' class='TailTest' method='testSameIDs' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645177693'/>
+	<change action='removal' type='Method' class='TailTest' method='testSameID' args='' visibility='N/A' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645177693'/>
+	<problem type='Unresolved Token' token='thirdTail' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645195727'/>
+	<problem type='Unresolved Token' token='calendar' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645504416'/>
+	<problem type='Missing Method' class='TailTest' method='amount' args='int, int' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645635977'/>
+	<change action='addition' type='Method' class='TailTest' method='testDifferentIDs' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645676086'/>
+	<change action='addition' type='Method' class='TailTest' method='testDifferentIDsWith' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645681600'/>
+	<change action='removal' type='Method' class='TailTest' method='testDifferentIDs' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645681600'/>
+	<change action='addition' type='Method' class='TailTest' method='testDifferentIDsWithDifferent' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645697620'/>
+	<change action='removal' type='Method' class='TailTest' method='testDifferentIDsWith' args='' visibility='N/A' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645697620'/>
+	<change action='addition' type='Method' class='TailTest' method='testDifferentIDsWithDifferentTime' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645699135'/>
+	<change action='removal' type='Method' class='TailTest' method='testDifferentIDsWithDifferent' args='' visibility='N/A' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645699135'/>
+	<problem type='Missing Class' class='fourthT' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645811886'/>
+	<problem type='Unresolved Token' token='la' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316645999714'/>
+	<problem type='Missing Method' class='TailTest' method='add' args='int, int' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316646036007'/>
+	<change action='addition' type='Method' class='TailTest' method='testEqual' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316646138743'/>
+	<change action='removal' type='Method' class='TailTest' method='testIfEqual' args='' visibility='N/A' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316646138743'/>
+	<change action='addition' type='Method' class='TailTest' method='testIfEqual' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316646146262'/>
+	<change action='removal' type='Method' class='TailTest' method='testEqual' args='' visibility='N/A' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316646146262'/>
+	<change action='addition' type='Method' class='TailTest' method='testDifferentIDsWithEarlierTime' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316646258877'/>
+	<change action='removal' type='Method' class='TailTest' method='testDifferentIDsWithDifferentTime' args='' visibility='N/A' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316646258877'/>
+	<change action='addition' type='Method' class='TailTest' method='testDifferentIDsWithEarlierTime' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316646264407'/>
+	<change action='addition' type='Method' class='TailTest' method='testDifferentIDsWithLaterTime' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316646268925'/>
+	<change action='removal' type='Method' class='TailTest' method='testDifferentIDsWithEarlierTime' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316646268925'/>
+	<change action='addition' type='Method' class='TailTest' method='testDifferentIDsWithLaterTime' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316646926235'/>
+	<change action='addition' type='Method' class='TailTest' method='testDifferentIDsWithHigher' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316646947272'/>
+	<change action='removal' type='Method' class='TailTest' method='testDifferentIDsWithLaterTime' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316646947272'/>
+	<change action='addition' type='Method' class='TailTest' method='testDifferentIDsWithHigherPriority' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316646950290'/>
+	<change action='removal' type='Method' class='TailTest' method='testDifferentIDsWithHigher' args='' visibility='N/A' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316646950290'/>
+	<change action='addition' type='Method' class='TailTest' method='testDifferentIDsWithHigherPriority' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316647061133'/>
+	<change action='addition' type='Method' class='TailTest' method='testDifferentIDsWithLowerPriority' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316647068151'/>
+	<change action='removal' type='Method' class='TailTest' method='testDifferentIDsWithHigherPriority' args='' visibility='public' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316647068151'/>
+	<problem type='Unresolved Token' token='eighTail' resource='test/com/industriallogic/tailqueue/TailTest.java' stamp='1316647086730'/>
+</session>

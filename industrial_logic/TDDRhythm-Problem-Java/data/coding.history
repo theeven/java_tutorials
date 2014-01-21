@@ -1,0 +1,57 @@
+<session>
+	<change action='addition' type='Method' class='BonusCalculatorTest' method='testGetBonus' args='' visibility='public' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316712916716'/>
+	<problem type='Missing Method' class='BonusCalculatorTest' method='assertEquals' args='' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316712947925'/>
+	<problem type='Missing Class' class='Testcase' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316713034575'/>
+	<problem type='Unresolved Token' token='The import j' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316713048131'/>
+	<problem type='Missing Class' class='Test' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316713053656'/>
+	<problem type='Unresolved Token' token='The import juni' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316713060181'/>
+	<problem type='Missing Class' class='BonusCalculator' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316713162381'/>
+	<problem type='Unresolved Token' token='BonusCalculator' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316713174912'/>
+	<change action='addition' type='Class' class='BonusCalculator' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316713201530'/>
+	<problem type='Missing Method' class='BonusCalculator' method='getBonus' args='' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316713215440'/>
+	<change action='addition' type='Method' class='BonusCalculator' method='getBonus' args='' visibility='public' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316713263058'/>
+	<problem type='Unresolved Token' token='The import or' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316713467445'/>
+	<problem type='Unresolved Token' token='The import org.j' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316713468961'/>
+	<problem type='Unresolved Token' token='The import org.ju' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316713470473'/>
+	<problem type='Missing Method' class='BonusCalculatorTest' method='assertEquals' args='boolean, boolean' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316713481007'/>
+	<problem type='Unresolved Token' token='The import org.junit.T' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316713600268'/>
+	<change action='addition' type='Method' class='BonusCalculatorTest' method='testIndividualQuotaExceeded' args='' visibility='public' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316713712406'/>
+	<problem type='Method Not Applicable' class='BonusCalculator' method='getBonus' args='Object' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316713819779'/>
+	<problem type='Method Not Applicable' class='BonusCalculator' method='getBonus' args='int' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316713844793'/>
+	<change action='addition' type='Method' class='BonusCalculator' method='getBonus' args='int' visibility='public' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316713854287'/>
+	<change action='removal' type='Method' class='BonusCalculator' method='getBonus' args='' visibility='N/A' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316713854287'/>
+	<problem type='Method Not Applicable' class='BonusCalculator' method='getBonus' args='' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316713926934'/>
+	<change action='addition' type='Method' class='BonusCalculatorTest' method='testIndividualQuotaExceeded' args='' visibility='public' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316713969483'/>
+	<change action='removal' type='Method' class='BonusCalculatorTest' method='testGetBonus' args='' visibility='N/A' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316713969483'/>
+	<change action='addition' type='Method' class='BonusCalculatorTest' method='testIndividualQuotaNotExceeded' args='' visibility='public' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316713978505'/>
+	<change action='removal' type='Method' class='BonusCalculatorTest' method='testIndividualQuotaExceeded' args='' visibility='public' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316713978505'/>
+	<change action='addition' type='Method' class='BonusCalculator' method='individualBonus' args='int' visibility='public' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316714445166'/>
+	<change action='removal' type='Method' class='BonusCalculator' method='getBonus' args='int' visibility='N/A' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316714445166'/>
+	<change action='removal' type='Method' class='BonusCalculator' method='individualBonus' args='int' visibility='public' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316714446014'/>
+	<change action='addition' type='Method' class='BonusCalculator' method='getBonus' args='int' visibility='public' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316714446014'/>
+	<change action='addition' type='Method' class='BonusCalculator' method='getBonus' args='int, int' visibility='private' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316714463717'/>
+	<problem type='Missing Method' class='BonusCalculator' method='returgetBonus' args='int, int' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316714489726'/>
+	<problem type='Method Not Applicable' class='Assert' method='assertFalse' args='String, double' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316714663060'/>
+	<problem type='Method Not Applicable' class='Assert' method='assertTrue' args='String, double' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316714663060'/>
+	<change action='addition' type='Method' class='BonusCalculator' method='individualBonus' args='int, int, double, double' visibility='public' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316715178785'/>
+	<change action='removal' type='Method' class='BonusCalculator' method='individualBonus' args='int' visibility='N/A' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316715178785'/>
+	<change action='removal' type='Method' class='BonusCalculator' method='individualBonus' args='int, int, double, double' visibility='public' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316715238825'/>
+	<change action='addition' type='Method' class='BonusCalculator' method='individualBonus' args='IndividualBonusParameter' visibility='public' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316715238825'/>
+	<change action='addition' type='Method' class='BonusCalculator' method='individualBonus' args='int, int, double, double' visibility='public' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316715247670'/>
+	<change action='removal' type='Method' class='BonusCalculator' method='individualBonus' args='IndividualBonusParameter' visibility='N/A' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316715247670'/>
+	<problem type='Method Not Applicable' class='BonusCalculator' method='individualBonus' args='int' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316715279306'/>
+	<problem type='Method Not Applicable' class='BonusCalculator' method='individualBonus' args='int, int' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316715315333'/>
+	<problem type='Method Not Applicable' class='BonusCalculator' method='individualBonus' args='int, int, int' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316715333875'/>
+	<change action='addition' type='Method' class='BonusCalculator' method='individualBonus' args='int, int, double, double' visibility='public' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316715675180'/>
+	<change action='addition' type='Method' class='BonusCalculator' method='teamBonus' args='int, int, double, double' visibility='public' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316715679694'/>
+	<change action='removal' type='Method' class='BonusCalculator' method='individualBonus' args='int, int, double, double' visibility='public' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316715679694'/>
+	<change action='addition' type='Method' class='BonusCalculator' method='teamBonus' args='int, int, double, int' visibility='public' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316715692711'/>
+	<change action='removal' type='Method' class='BonusCalculator' method='teamBonus' args='int, int, double, double' visibility='N/A' resource='src/com/industriallogic/bonus/BonusCalculator.java' stamp='1316715692711'/>
+	<change action='addition' type='Method' class='BonusCalculatorTest' method='testIndividualQuotaNotExceeded' args='' visibility='public' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316715736253'/>
+	<change action='addition' type='Method' class='BonusCalculatorTest' method='testIndividualQuotaExceeded' args='' visibility='public' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316715736253'/>
+	<change action='addition' type='Method' class='BonusCalculatorTest' method='testTeamQuotaNotExceeded' args='' visibility='public' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316715741269'/>
+	<change action='removal' type='Method' class='BonusCalculatorTest' method='testIndividualQuotaNotExceeded' args='' visibility='public' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316715741269'/>
+	<change action='addition' type='Method' class='BonusCalculatorTest' method='testTeamQuotaExceeded' args='' visibility='public' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316715746785'/>
+	<change action='removal' type='Method' class='BonusCalculatorTest' method='testIndividualQuotaExceeded' args='' visibility='public' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316715746785'/>
+	<problem type='Missing Method' class='BonusCalculator' method='TeamBonus' args='int, int, int, int' resource='test/com/industriallogic/bonus/BonusCalculatorTest.java' stamp='1316715756303'/>
+</session>

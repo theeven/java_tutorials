@@ -1,0 +1,34 @@
+<session>
+	<change action='addition' type='Method' class='Programmer' method='jobsComplCount' args='' visibility='public' resource='src/com/industriallogic/example/Programmer.java' stamp='1316559030669'/>
+	<change action='removal' type='Method' class='Programmer' method='jobsDoneCount' args='' visibility='N/A' resource='src/com/industriallogic/example/Programmer.java' stamp='1316559030669'/>
+	<change action='addition' type='Method' class='Programmer' method='jobsCompletedCount' args='' visibility='public' resource='src/com/industriallogic/example/Programmer.java' stamp='1316559031688'/>
+	<change action='removal' type='Method' class='Programmer' method='jobsComplCount' args='' visibility='N/A' resource='src/com/industriallogic/example/Programmer.java' stamp='1316559031688'/>
+	<change action='removal' type='Method' class='Programmer' method='jobsCompletedCount' args='' visibility='public' resource='src/com/industriallogic/example/Programmer.java' stamp='1316559032708'/>
+	<change action='addition' type='Method' class='Programmer' method='jobsCompletedCount' args='' visibility='public' resource='src/com/industriallogic/example/Programmer.java' stamp='1316559033108'/>
+	<change action='removal' type='Method' class='Programmer' method='jobsDoneCount' args='' visibility='N/A' resource='src/com/industriallogic/example/Programmer.java' stamp='1316559033108'/>
+	<change action='removal' type='Method' class='Manager' method='jobsCompletedCount' args='' visibility='public' resource='src/com/industriallogic/example/Manager.java' stamp='1316559048404'/>
+	<change action='addition' type='Method' class='Manager' method='jobsCompletedCount' args='' visibility='public' resource='src/com/industriallogic/example/Manager.java' stamp='1316559094339'/>
+	<change action='removal' type='Method' class='Manager' method='jobsSkippedCount' args='' visibility='public' resource='src/com/industriallogic/example/Manager.java' stamp='1316559138308'/>
+	<change action='removal' type='Method' class='Manager' method='jobsCompletedCount' args='' visibility='public' resource='src/com/industriallogic/example/Manager.java' stamp='1316559138308'/>
+	<change action='addition' type='Method' class='Employee' method='jobsCompletedCount' args='' visibility='public' resource='src/com/industriallogic/example/Employee.java' stamp='1316559138303'/>
+	<change action='addition' type='Method' class='Employee' method='jobsCompletedCount' args='' visibility='public' resource='src/com/industriallogic/example/Employee.java' stamp='1316559048401'/>
+	<change action='removal' type='Method' class='Employee' method='jobsCompletedCount' args='' visibility='N/A' resource='src/com/industriallogic/example/Employee.java' stamp='1316559164362'/>
+	<change action='removal' type='Method' class='Manager' method='jobsSkippedCount' args='' visibility='public' resource='src/com/industriallogic/example/Manager.java' stamp='1316559194512'/>
+	<change action='removal' type='Method' class='Manager' method='jobsCompletedCount' args='' visibility='public' resource='src/com/industriallogic/example/Manager.java' stamp='1316559194512'/>
+	<change action='addition' type='Method' class='Employee' method='jobsSkippedCount' args='' visibility='public' resource='src/com/industriallogic/example/Employee.java' stamp='1316559194508'/>
+	<change action='addition' type='Method' class='Employee' method='jobsCompletedCount' args='' visibility='public' resource='src/com/industriallogic/example/Employee.java' stamp='1316559194508'/>
+	<change action='addition' type='Method' class='Employee' method='jobsSkippedCount' args='' visibility='public' resource='src/com/industriallogic/example/Employee.java' stamp='1316559138303'/>
+	<change action='removal' type='Method' class='Programmer' method='jobsCompletedCount' args='' visibility='N/A' resource='src/com/industriallogic/example/Programmer.java' stamp='1316559234799'/>
+	<change action='removal' type='Method' class='Programmer' method='jobsSkippedCount' args='' visibility='N/A' resource='src/com/industriallogic/example/Programmer.java' stamp='1316559234799'/>
+	<change action='removal' type='Method' class='Manager' method='performJob' args='Job' visibility='public' resource='src/com/industriallogic/example/Manager.java' stamp='1316559302801'/>
+	<change action='addition' type='Method' class='Programmer' method='responsibilities' args='' visibility='private' resource='src/com/industriallogic/example/Programmer.java' stamp='1316559491872'/>
+	<change action='removal' type='Method' class='Programmer' method='performJob' args='Job' visibility='public' resource='src/com/industriallogic/example/Programmer.java' stamp='1316559708911'/>
+	<change action='removal' type='Method' class='Programmer' method='performJob' args='Job' visibility='public' resource='src/com/industriallogic/example/Programmer.java' stamp='1316559774567'/>
+	<change action='removal' type='Method' class='Manager' method='performJob' args='Job' visibility='N/A' resource='src/com/industriallogic/example/Manager.java' stamp='1316559814086'/>
+	<problem type='Missing Class' class='pEnumSet' resource='src/com/industriallogic/example/Programmer.java' stamp='1316559835101'/>
+	<problem type='Missing Method' class='Employee' method='responsibilities' args='' resource='src/com/industriallogic/example/Employee.java' stamp='1316559837613'/>
+	<change action='addition' type='Method' class='Employee' method='performJob' args='Job' visibility='public' resource='src/com/industriallogic/example/Employee.java' stamp='1316559774570'/>
+	<change action='addition' type='Method' class='Employee' method='performJob' args='Job' visibility='public' resource='src/com/industriallogic/example/Employee.java' stamp='1316559708914'/>
+	<change action='addition' type='Method' class='Employee' method='performJob' args='Job' visibility='public' resource='src/com/industriallogic/example/Employee.java' stamp='1316559302799'/>
+	<change action='addition' type='Method' class='Employee' method='responsibilities' args='' visibility='protected' resource='src/com/industriallogic/example/Employee.java' stamp='1316559858272'/>
+</session>
